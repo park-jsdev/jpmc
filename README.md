@@ -39,3 +39,6 @@ Set up the work environment (Windows):
 # Built With
 - VS Code
 - InsideSherpa virtual program
+
+The certificate:
+https://github.com/park-jsdev/jpmc/blob/master/JPMorgan%20Chase_completion_certificate.pdf
