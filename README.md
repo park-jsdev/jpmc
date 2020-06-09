@@ -41,7 +41,7 @@ Set up the work environment (Windows):
 - InsideSherpa virtual program
 
 # Screenshots
-![Alt text](https://imgur.com/a/67DwePz "Data Visualization Feature")
+![Alt text](https://i.imgur.com/bKroo7Q.png "Data Visualization Feature")
 
 The certificate:
 https://github.com/park-jsdev/jpmc/blob/master/JPMorgan%20Chase_completion_certificate.pdf
