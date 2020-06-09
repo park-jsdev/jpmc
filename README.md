@@ -44,4 +44,4 @@ Set up the work environment (Windows):
 ![Alt text](https://i.imgur.com/bKroo7Q.png "Data Visualization Feature")
 
 The certificate:
-https://github.com/park-jsdev/jpmc/blob/master/JPMorgan%20Chase_completion_certificate.pdf
+![Alt text](https://i.imgur.com/DrC7JJd.png "Certificate")
